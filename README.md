@@ -77,37 +77,7 @@ chmod +x start_backend.sh
 ### 4. Open Frontend
 Open `index.html` in your web browser
 
-## 🌐 Deployment & Hosting
 
-### Option 1: GitHub Pages (Free Frontend Hosting)
-
-1. **Create GitHub Repository**
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit: ESS Data Analysis Project"
-   git branch -M main
-   git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   git push -u origin main
-   ```
-
-2. **Enable GitHub Pages**
-   - Go to your repository on GitHub
-   - Click "Settings" → "Pages"
-   - Select "Deploy from a branch"
-   - Choose "main" branch and "/ (root)" folder
-   - Click "Save"
-
-3. **Your website will be available at**: `https://YOUR_USERNAME.github.io/YOUR_REPO_NAME`
-
-### Option 2: Full Stack Hosting (Render, Railway, or Heroku)
-
-For the backend API, you can deploy to:
-- **Render** (Free tier available)
-- **Railway** (Free tier available)
-- **Heroku** (Paid)
-
-Update the `API_BASE_URL` in `script.js` to point to your deployed backend.
 
 ## 📊 Dataset Information
 
