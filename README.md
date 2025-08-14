@@ -112,9 +112,7 @@ The application is fully responsive and works on:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
@@ -123,13 +121,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - **FastAPI** team for the excellent web framework
 - **Chart.js** and **Plotly.js** for data visualization
 
-## 📞 Support
 
-If you encounter any issues or have questions:
-1. Check the [Issues](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/issues) page
-2. Create a new issue with detailed description
-3. Include your system information and error messages
-
----
 
 **Made with ❤️ for European social science research**
