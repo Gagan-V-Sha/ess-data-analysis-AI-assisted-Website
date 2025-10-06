@@ -3,7 +3,7 @@ let currentData = null;
 let currentRegressionResults = null;
 
 // Backend API configuration
-const API_BASE_URL = 'http://localhost:3000';
+const API_BASE_URL = 'http://localhost:8000';
 
 // Initialize the application
 document.addEventListener('DOMContentLoaded', function() {
